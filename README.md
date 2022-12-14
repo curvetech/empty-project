@@ -1,1 +1,1 @@
-New curve project
+New curve empty-project
